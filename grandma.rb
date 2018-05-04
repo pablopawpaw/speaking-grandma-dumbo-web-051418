@@ -7,5 +7,5 @@ def speak_to_grandma(statement)
     return "NO, NOT SINCE 1938!"
   else 
     return "Error"
-  end 
+end 
 
